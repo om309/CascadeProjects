@@ -1,0 +1,12 @@
+com\ilms\backend\config\WebConfig.class
+com\ilms\backend\domain\Supplier.class
+com\ilms\backend\repo\LocationRepository.class
+com\ilms\backend\repo\ProductRepository.class
+com\ilms\backend\repo\SupplierRepository.class
+com\ilms\backend\domain\Location.class
+com\ilms\backend\BackendApplication.class
+com\ilms\backend\config\WebConfig$1.class
+com\ilms\backend\web\SupplierController.class
+com\ilms\backend\domain\Product.class
+com\ilms\backend\web\ProductController.class
+com\ilms\backend\web\LocationController.class
